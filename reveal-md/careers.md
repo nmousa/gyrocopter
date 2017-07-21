@@ -1,13 +1,15 @@
 Careers
-
+* Before Interview
+* Interview Process 
 ---
-
-CS
-
+Know Yourself
 ----
-
-4 Before
-
+Know the Market
 ---
-
-END
+Develop Marketable Skills 
+---
+Get Things Done
+---
+Manage Your Online Profile 
+----
+Summary
