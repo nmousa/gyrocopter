@@ -1,15 +1,35 @@
-Careers
-* Before Interview
+Programming Careers  
+by Nilab Mousa 
+---
+Outline 
+* Before Job Application 
+* Application Process 
 * Interview Process 
----
-Know Yourself
+* Offers & Negotiation
 ----
-Know the Market
----
-Develop Marketable Skills 
----
-Get Things Done
----
-Manage Your Online Profile 
+Before Job Application
+## 1. Know Yourself
 ----
-Summary
+Before Job Application
+1. Know Yourself
+## 2. Know the Market
+----
+Before Job Application
+1. Know Yourself
+2. Know the Market
+## 3. Develop Marketable Skills 
+----
+Before Job Application
+1. Know Yourself
+2. Know the Market
+3. Develop Marketable Skills 
+## 4. Get Things Done
+----
+Before Job Application
+1. Know Yourself
+2. Know the Market
+3. Develop Marketable Skills 
+4. Get Things Done
+## 5. Manage Your Online Profile 
+----
+# Q&A
