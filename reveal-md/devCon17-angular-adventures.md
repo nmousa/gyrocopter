@@ -1,5 +1,5 @@
 # Angular Adventures
-* Nilab mousa
+* Nilab Mousa
 * Clearwater DevCon ‘17
 * Boise Centre 410B
 
@@ -14,10 +14,10 @@ Get a glimpse of Angular, get going with Typescript, and learn fundamentals of c
 * Visual logic of the application 
 
 # Web Components 
-* higher level of visual expressivity and reusability  
-* more modular
-* consistent
-* maintainable web
+* Higher level of visual expressivity and reusability  
+* More modular
+* Consistent
+* Maintainable web
 
 # Web Components (cont.)
 * Templates: These are pieces of HTML that structure the content we aim to render  
