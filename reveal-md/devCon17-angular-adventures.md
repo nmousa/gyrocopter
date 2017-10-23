@@ -18,8 +18,8 @@ Get a glimpse of Angular, get going with Typescript, and learn fundamentals of c
 * Tree of interconnected web components 
 
 # Why Angular 
-* <docs views> 
-* <age>
+* docs views
+* age
 * Cross platform - Ionic/Electron
 * Working with Microsoft - Standardized 
 * Faster rendering 
