@@ -3,11 +3,38 @@
 * Clearwater DevCon ‘17
 * Boise Centre 410B
 
+# About Me
+* @nmousa
+* Software Engineer
+* Angular Bootcamp Lead
+* Adjust Faculty 
+* Student
+
 # Abstract
 Get a glimpse of Angular, get going with Typescript, and learn fundamentals of components. Future proof your application by using secret weapons of Observables.
 
-# Angular 
+# What is Angular 
+* Development platform for building mobile and desktop web applications
 * Tree of interconnected web components 
+
+# Why Angular 
+* <docs views> 
+* <age>
+* Cross platform - Ionic/Electron
+* Working with Microsoft - Standardized 
+* Faster rendering 
+* Clearner code
+* Much simpler - easier to learn
+
+# Main Parts 
+* Modules 
+* Component
+* Template
+* Metadata
+* Data Binding
+* Service
+* Directive
+* Dependency Injection
 
 # Components 
 * A class with controls a specific view 
