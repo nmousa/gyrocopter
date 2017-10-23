@@ -26,6 +26,18 @@ Get a glimpse of Angular, get going with Typescript, and learn fundamentals of c
 * Clearner code
 * Much simpler - easier to learn
 
+# Typescript
+* Strict superset of JavaScript  
+--> JavaScript programs are valid TypeScript programs 
+* Adds (optional) static typing and class-based object-oriented programming to the language 
+* Transcompiles to JavaScript 
+
+# Typescript
+* Prevents trivial errors
+* Discovers the impact of change
+* No special runtime
+* Productivity booster
+
 # Main Parts 
 * Modules 
 * Component
@@ -57,18 +69,6 @@ elements, but also the custom wrapper items that provide further presentation el
 * HTML file
 * CSS file
 * @Component decorator has configuration object 
-
-# Typescript
-* Strict superset of JavaScript  
---> JavaScript programs are valid TypeScript programs 
-* Adds (optional) static typing and class-based object-oriented programming to the language 
-* Transcompiles to JavaScript 
-
-# Typescript
-* Prevents trivial errors
-* Discovers the impact of change
-* No special runtime
-* Productivity booster
 
 # Observables 
 * Standard for managing async data 
